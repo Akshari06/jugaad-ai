@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Jugaad AI: Smart Kirana Assistant",
+  "description": "A voice-first, vernacular-first AI assistant for Indian retail owners to manage inventory, billing, and sales with ease.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
