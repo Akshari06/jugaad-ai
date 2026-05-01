@@ -7,7 +7,7 @@ export default defineConfig(({ mode }) => {
   const env = loadEnv(mode, '.', '');
 
   return {
-    base: '/Jugaad-ai/',,  // 👈 THIS is the only important addition
+    base: '/jugaad-ai/',,  // 👈 THIS is the only important addition
 
     server: {
       port: 3000,
